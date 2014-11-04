@@ -16,5 +16,5 @@ Completed User Stories:
   
     Swiping one your own tweets to the right should bring up a confirm dialog asking if you'd like to delete it.
 
-Unfortunately I wasn't sure how to embed the .gif into the ReadMe lol. 
+Unfortunately I wasn't sure how to embed the .gif into the ReadMe lol but the file is my push. 
   
