@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="/Users/samshih/Desktop/YahooTwitterStudio/app/build/intermediates/pre-dexed/debug/scribe-codepath-592d04c8757428b52f95d8df28c70e7deedaba57.jar"
+        jar="/Users/samshih/Desktop/YahooTwitterStudio/app/libs/scribe-codepath.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="6e0748acc9e7be0695de0d38016d260df52d9167"/>
+    <item
+        dex="/Users/samshih/Desktop/YahooTwitterStudio/app/build/intermediates/pre-dexed/debug/classes-7ae588a851357896e60e7d7ef9a0227a3c92e115.jar"
+        jar="/Users/samshih/Desktop/YahooTwitterStudio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.0.1/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="f71a6822470c9eb659d4f4a6cb57b780b35f058b"/>
+    <item
+        dex="/Users/samshih/Desktop/YahooTwitterStudio/app/build/intermediates/pre-dexed/debug/library-2.4.0-1731edb889bfa1db17399cf250ca6fac0625f9c2.jar"
+        jar="/Users/samshih/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb"/>
+    <item
+        dex="/Users/samshih/Desktop/YahooTwitterStudio/app/build/intermediates/pre-dexed/debug/codepath-oauth-0.3.0-c8a99e23135bfbddc02e12896f6877166c56f18c.jar"
+        jar="/Users/samshih/Desktop/YahooTwitterStudio/app/libs/codepath-oauth-0.3.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="b90f1c3541987f690e2fb854775914cc23266250"/>
+    <item
+        dex="/Users/samshih/Desktop/YahooTwitterStudio/app/build/intermediates/pre-dexed/debug/codepath-utils-9f02c2e1fd19b885361c4b869c0c0f562be5e0bf.jar"
+        jar="/Users/samshih/Desktop/YahooTwitterStudio/app/libs/codepath-utils.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="10901a5ef726eacf1b2443b7f38dc4cc9cd3f7d4"/>
+    <item
+        dex="/Users/samshih/Desktop/YahooTwitterStudio/app/build/intermediates/pre-dexed/debug/support-v4-19.0.1-3bf117e59e2e0f41bbf9219f2be90cdcf1dd583d.jar"
+        jar="/Applications/Android Studio.app/sdk/extras/android/m2repository/com/android/support/support-v4/19.0.1/support-v4-19.0.1.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="587da9a481ffd341d2fa091704489b89845ddacd"/>
+    <item
+        dex="/Users/samshih/Desktop/YahooTwitterStudio/app/build/intermediates/pre-dexed/debug/universal-image-loader-1.8.4-563e8231313dfbe7eb45cf256a1f1205ccb65b87.jar"
+        jar="/Users/samshih/Desktop/YahooTwitterStudio/app/libs/universal-image-loader-1.8.4.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="eee81e43531ce82db1781c5a8b27781ca384eede"/>
+    <item
+        dex="/Users/samshih/Desktop/YahooTwitterStudio/app/build/intermediates/pre-dexed/debug/android-async-http-1.4.3-b24f7e631f486f41233b55107e1d6c1097689415.jar"
+        jar="/Users/samshih/Desktop/YahooTwitterStudio/app/libs/android-async-http-1.4.3.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="f70e680861fdf9449819003e7799a4e9aca047f8"/>
+    <item
+        dex="/Users/samshih/Desktop/YahooTwitterStudio/app/build/intermediates/pre-dexed/debug/ActiveAndroid-3.1-adcddac4c58-586920901e84acc01a5ec0c52d70b22cdca6d80f.jar"
+        jar="/Users/samshih/Desktop/YahooTwitterStudio/app/libs/ActiveAndroid-3.1-adcddac4c58.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="e550c03ed8bcfe3b9f97d8c5ce6e8ee305f3beed"/>
+    <item
+        dex="/Users/samshih/Desktop/YahooTwitterStudio/app/build/intermediates/pre-dexed/debug/classes-1b2968cd3d3bf37ec1e4c9e75afac31fce6f0449.jar"
+        jar="/Users/samshih/Desktop/YahooTwitterStudio/app/build/intermediates/exploded-aar/com.fortysevendeg.swipelistview/swipelistview/1.0-SNAPSHOT/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="aca2cf1eb07a0a658257d3dc3e18926484861e0d"/>
+
+</pre-dex-items>
